@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Shahar
 
-<!--
-**shaharAlt635/shaharAlt635** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer targeting **backend engineer** and **software engineer** roles. I enjoy building reliable backend systems and full-stack products.
 
-Here are some ideas to get you started:
+## Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+TypeScript · Next.js · PostgreSQL · Prisma · Python · LangGraph
+
+## Featured projects
+
+- [**SaaS Platform**](https://github.com/shaharAlt635/SaaS-Platform) — A multi-tenant SaaS dashboard with authentication, organizations and role-based permissions, Stripe billing, analytics, and audit logs. Built with Next.js, TypeScript, PostgreSQL, and Prisma.
+- [**Open SWE (fork)**](https://github.com/shaharAlt635/open-swe) — My fork of [LangChain's Open SWE](https://github.com/langchain-ai/open-swe), an open-source asynchronous coding-agent framework built with LangGraph.
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/shahar-aharon-38569834b/)
+- Email: [shaharah2002@gmail.com](mailto:shaharah2002@gmail.com)
